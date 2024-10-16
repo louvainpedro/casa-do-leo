@@ -2,6 +2,7 @@
 <a href="https://www.facebook.com/p/Casa-do-Léo-100069654894352/">
    <img src="/img/logoCasaDoLeo.jpeg" alt="Logo da Casa do Léo" width="200" />
 </a>
+<br/>
 <a href="https://www.facebook.com/p/Casa-do-Léo-100069654894352/">Saiba mais sobre este projeto incrível!</a>
 
 ## Descrição 📜
