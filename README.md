@@ -49,9 +49,5 @@ Contribuições são bem-vindas! Sinta-se à vontade para abrir uma _issue_ ou e
 
 Este projeto é licenciado sob a Licença MIT.
 
-## Contato 📬
-
-Para mais informações, entre em contato: [seu-email@example.com]
-
 ---
 _"Faça todo o bem que puder, com todos os meios que puder, de todas as maneiras que puder, em todos os lugares que puder, em todos os momentos que puder, para todas as pessoas que puder, enquanto você puder." - São João Batista de La Salle_ 🌟
