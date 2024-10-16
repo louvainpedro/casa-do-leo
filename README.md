@@ -1,5 +1,7 @@
 # Casa do Leo - Sistema de Gestão de Doações 🏠❤️
-<img src="/img/logoCasaDoLeo.jpeg" alt="Logo da Casa do Léo" width="200" />
+<a href="https://www.facebook.com/p/Casa-do-Léo-100069654894352/">
+   <img src="/img/logoCasaDoLeo.jpeg" alt="Logo da Casa do Léo" width="200" />
+</a>
 
 ## Descrição 📜
 
