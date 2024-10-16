@@ -1,6 +1,9 @@
 # Casa do Leo - Sistema de Gestão de Doações 🏠❤️
-
-![Casa do Leo](link-para-imagem.jpg)  <!-- Substitua pelo link real da imagem do projeto -->
+<a href="https://www.facebook.com/p/Casa-do-Léo-100069654894352/">
+   <img src="/img/logoCasaDoLeo.jpeg" alt="Logo da Casa do Léo" width="200" />
+</a>
+<br/>
+<a href="https://www.facebook.com/p/Casa-do-Léo-100069654894352/">Saiba mais sobre este projeto incrível!</a>
 
 ## Descrição 📜
 
@@ -45,10 +48,6 @@ Contribuições são bem-vindas! Sinta-se à vontade para abrir uma _issue_ ou e
 ## Licença 📄
 
 Este projeto é licenciado sob a Licença MIT.
-
-## Contato 📬
-
-Para mais informações, entre em contato: [seu-email@example.com]
 
 ---
 _"Faça todo o bem que puder, com todos os meios que puder, de todas as maneiras que puder, em todos os lugares que puder, em todos os momentos que puder, para todas as pessoas que puder, enquanto você puder." - São João Batista de La Salle_ 🌟
